@@ -1,0 +1,12 @@
+2021-05-19T11:44:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
+2021-05-19T11:46:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
+2021-05-19T11:46:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
+2021-05-19T11:48:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
+2021-05-19T11:50:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
+2021-05-19T11:51:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 71465931 bytes) dans C:\wamp64\www\BUROCLICK\wp-content\plugins\smart-slider-3\Nextend\Framework\Image\ImageEdit.php à la ligne 128
+
